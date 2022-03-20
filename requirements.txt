@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standart]
+jinja2
+pyotp
+pymongo
